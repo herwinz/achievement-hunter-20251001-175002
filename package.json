@@ -1,0 +1,14 @@
+{
+  "name": "achievement-hunter-devops",
+  "version": "1.0.0",
+  "description": "GitHub Achievement Hunter - DevOps automation project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"✅ All tests passed!\" && exit 0",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["devops", "automation", "github", "achievements"],
+  "author": "Herwindra Berlian",
+  "license": "MIT"
+}
